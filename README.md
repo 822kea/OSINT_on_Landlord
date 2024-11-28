@@ -15,7 +15,7 @@ I found a place, toured it, and everything seemed fine. But here’s the thing: 
 
 ## 🚩 Red Flags I Noticed  
 
-1. **No profile picture on the roomie app:**  
+1. **No profile picture on the app:**  
    - Why are you hiding, sir/ma’am/they?  
    - Also, their name turned out to be fake. Sketchy!  
 
