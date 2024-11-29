@@ -1,13 +1,13 @@
 
 # OSINT on a Landlord  
 
-Being real with y’all—times are tough, and rent ain’t cheap.  
+Being real with y’all, times are tough, and rent ain’t cheap.  
 
-I’ve decided to take a break from renting an entire apartment and will be leasing a room instead. Yep, that means **roommates.** Not even friends—just random strangers. 😩  
+I’ve decided to take a break from renting an apartment and will be leasing a room instead. Yep, that means **roommates.** Not even friends, just random strangers. 😩  
 
 But hey, I know my privilege. Some people have even less to work with, so I’m staying grateful.  
 
-Anyway, this post isn’t about my budget woes. Let’s get into the real tea.  
+Anyway, this post isn’t about my woes. Let’s get into the real tea.  
 
 I found a place, toured it, and everything seemed fine. But here’s the thing: the person I was communicating with was giving off **scammer vibes.** Let me explain:  
 
@@ -15,8 +15,8 @@ I found a place, toured it, and everything seemed fine. But here’s the thing: 
 
 ## 🚩 Red Flags I Noticed  
 
-1. **No profile picture on the app:**  
-   - Why are you hiding, sir/ma’am/they?  
+1. **No profile picture on the app/false name:**  
+   - I understand, but like, why are you hiding? 
    - Also, their name turned out to be fake. Sketchy!  
 
 2. **Out-of-state phone number:**  
@@ -24,7 +24,7 @@ I found a place, toured it, and everything seemed fine. But here’s the thing: 
 
 3. **Owner wasn’t at the property during my visit:**  
    - They told me in advance they wouldn’t be there and had one of the current tenants show me around.  
-   - The tenant seemed chill, and the place was clean, so I kept an open mind. Still, I stayed cautious.  
+   - The tenant seemed chill, and the place was nice, so I kept an open mind. Still, I stayed cautious.  
 
 4. **Couldn’t find their LLC in an initial search:**  
    - After some back-and-forth communication (via SMS *only*—red flag right there), they emailed me the lease.  
@@ -37,13 +37,13 @@ At this point, I was like, “Hmm… I don’t know. It’s giving 50/50.”
 
 ## 💻 How I Used OSINT to Investigate  
 
-I remembered I’m a *cyber chick*—let’s dig deeper! Here’s what I did:  
+I remembered I’m a *cyber chick*—so I dug a little deeper! Here’s what I did:  
 
 1. **Checked the phone number area code:**  
-   - Looked it up—it was for Alaska (not really, but that’s an example).  
+   - Looked it up! It was for Alaska (not really, but that’s an example).  
 
 2. **Searched for the LLC on official state records:**  
-   - Simple Google search wasn’t enough, so I went to the state’s LLC lookup website.  
+   - A simple Google search wasn’t enough, so I went to the state’s LLC lookup website.  
    - Found the LLC, its creation date, and the registered owner’s name.  
 
 3. **Verified the owner:**  
