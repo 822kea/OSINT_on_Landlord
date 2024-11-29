@@ -65,6 +65,6 @@ Based on my research, my confidence in this landlord went from 50% to 95%. I dec
 ## 🛡️ Final Thoughts  
 
 - **Trust nothing. Question everything and everyone.**  
-- Always, *always* do your research. OSINT is your best friend!  
+- Always, *always* do your research. The internet is your best friend!  
 
 Stay safe out here! 🌟  
